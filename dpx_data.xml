@@ -5,12 +5,12 @@
     <PackVer>
         <Rdc>1</Rdc>
         <Vcd>1</Vcd>
-        <Enc>1</Enc>
+        <Enc>2</Enc>
     </PackVer>
     <AppVer>
-        <Win>1</Win>
-        <Rec>1</Rec>
-        <Vcd>1</Vcd>
+        <Win>2</Win>
+        <Rec>2</Rec>
+        <Vcd>2</Vcd>
         <Enc>1</Enc>
     </AppVer>
     <Files>
