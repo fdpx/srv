@@ -3,8 +3,8 @@
     <Site>https://www.instagram.com/aleex3300</Site>
     <Host>https://github.com/fdpx/hst/raw/main</Host>
     <PackVer>
-        <Rdc>2</Rdc>
-        <Vcd>2</Vcd>
+        <Rdc>1</Rdc>
+        <Vcd>1</Vcd>
         <Enc>1</Enc>
     </PackVer>
     <AppVer>
