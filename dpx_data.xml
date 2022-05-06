@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DpxInfo>
+    <Site>https://www.instagram.com/aleex3300</Site>
+    <Host>https://github.com/fdpx/hst/raw/main</Host>
+    <PackVer>
+        <Rdc>1</Rdc>
+        <Vcd>1</Vcd>
+        <Enc>1</Enc>
+    </PackVer>
+    <AppVer>
+        <Win>1</Win>
+        <Rec>1</Rec>
+        <Vcd>1</Vcd>
+        <Enc>1</Enc>
+    </AppVer>
+    <Files>
+        <Win>dpx_app.zip</Win>
+        <Pack>dpx_pack.zip</Pack>
+        <Rec>dpx_rec.apk</Rec>
+        <Vcd>dpx_vcd.apk</Vcd>
+        <Enc>dpx_enc.apk</Enc>
+    </Files>
+</DpxInfo>
