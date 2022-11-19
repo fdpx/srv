@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DpxInfo>
-    <Site>Support on Discord</Site>
+    <Site>https://discord.com/users/1043442422904012830</Site>
     <Host>https://github.com/fdpx/hst/raw/main</Host>
     <AppVer>
         <Win>2</Win>
         <Rec>3</Rec>
-        <Vcd>1</Vcd>
+        <Vcd>2</Vcd>
         <Enc>1</Enc>
     </AppVer>
     <Files>
         <Win>dpx_app.zip</Win>
-        <Pack>dpx_pack.zip</Pack>
+        <Pack>dpx_pack.zip</Pack>        
+        <PackSL>dpx_pack_sl.zip</PackSL>
         <Rec>dpx_rec.apk</Rec>
         <Vcd>dpx_vcd.apk</Vcd>
         <Enc>dpx_enc.apk</Enc>
