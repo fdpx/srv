@@ -4,7 +4,7 @@
     <Host>https://github.com/fdpx/hst/raw/main</Host>
     <PackVer>
         <Rdc>4</Rdc>
-        <Vcd>2</Vcd>
+        <Vcd>1</Vcd>
         <Enc>1</Enc>
     </PackVer>
     <AppVer>
