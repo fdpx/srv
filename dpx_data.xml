@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DpxInfo>
-    <Site>https://www.instagram.com/aleex3300</Site>
+    <Site>Support on Discord</Site>
     <Host>https://github.com/fdpx/hst/raw/main</Host>
-    <PackVer>
-        <Rdc>2</Rdc>
-        <Vcd>1</Vcd>
-        <Enc>1</Enc>
-    </PackVer>
     <AppVer>
-        <Win>1</Win>
-        <Rec>2</Rec>
+        <Win>2</Win>
+        <Rec>3</Rec>
         <Vcd>1</Vcd>
         <Enc>1</Enc>
     </AppVer>
