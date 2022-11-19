@@ -2,6 +2,11 @@
 <DpxInfo>
     <Site>https://discord.com/users/1043442422904012830</Site>
     <Host>https://github.com/fdpx/hst/raw/main</Host>
+    <PackVer>
+        <Rdc>2</Rdc>
+        <Vcd>1</Vcd>
+        <Enc>1</Enc>
+    </PackVer>
     <AppVer>
         <Win>2</Win>
         <Rec>3</Rec>
@@ -10,8 +15,8 @@
     </AppVer>
     <Files>
         <Win>dpx_app.zip</Win>
-        <Pack>dpx_pack.zip</Pack>        
-        <PackSL>dpx_pack_sl.zip</PackSL>
+        <Pack>dpx_pack.zip</Pack> 
+       <PackSL>dpx_pack_sl.zip</PackSL>
         <Rec>dpx_rec.apk</Rec>
         <Vcd>dpx_vcd.apk</Vcd>
         <Enc>dpx_enc.apk</Enc>
