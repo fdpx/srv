@@ -8,14 +8,14 @@
         <Enc>1</Enc>
     </PackVer>
     <AppVer>
-        <Win>4</Win>
+        <Win>5</Win>
         <Rec>4</Rec>
         <Vcd>3</Vcd>
     </AppVer>
     <Files>
         <Win>dpx_app.zip</Win>
         <Pack>dpx_pack.zip</Pack> 
-		<PackSL>dpx_pack_sl.zip</PackSL>
+	<PackSL>dpx_pack_sl.zip</PackSL>
         <Rec>dpx_rec.apk</Rec>
         <Vcd>dpx_vcd.apk</Vcd>
     </Files>
