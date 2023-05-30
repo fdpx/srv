@@ -3,19 +3,18 @@
     <Site></Site>
     <Host>https://github.com/fdpx/hst/raw/main</Host>
     <PackVer>
-        <Rdc>4</Rdc>
-        <Vcd>1</Vcd>
-        <Enc>1</Enc>
+        <Rdc>6</Rdc>
+        <Vcd>2</Vcd>
+        <Enc>2</Enc>
     </PackVer>
     <AppVer>
-        <Win>5</Win>
-        <Rec>4</Rec>
-        <Vcd>3</Vcd>
+        <Win>7</Win>
+        <Rec>6</Rec>
+        <Vcd>4</Vcd>
     </AppVer>
     <Files>
         <Win>dpx_app.zip</Win>
         <Pack>dpx_pack.zip</Pack> 
-	<PackSL>dpx_pack_sl.zip</PackSL>
         <Rec>dpx_rec.apk</Rec>
         <Vcd>dpx_vcd.apk</Vcd>
     </Files>
