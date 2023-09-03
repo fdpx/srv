@@ -3,13 +3,13 @@
     <Site></Site>
     <Host>https://github.com/fdpx/hst/raw/main</Host>
     <PackVer>
-        <Rdc>6</Rdc>
+        <Rdc>7</Rdc>
         <Vcd>2</Vcd>
         <Enc>2</Enc>
     </PackVer>
     <AppVer>
         <Win>8</Win>
-        <Rec>6</Rec>
+        <Rec>7</Rec>
         <Vcd>4</Vcd>
     </AppVer>
     <Files>
