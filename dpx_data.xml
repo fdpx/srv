@@ -4,13 +4,13 @@
     <Site>https://www.instagram.com/aleex3300/</Site>
     <Host>https://github.com/fdpx/hst/raw/main</Host>
     <PackVer>
-        <Rdc>9</Rdc>
+        <Rdc>10</Rdc>
         <Vcd>2</Vcd>
         <Enc>2</Enc>
     </PackVer>
     <AppVer>
         <Win>8</Win>
-        <Rec>11</Rec>
+        <Rec>12</Rec>
         <Vcd>4</Vcd>
     </AppVer>
     <Files>
