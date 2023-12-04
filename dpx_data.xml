@@ -5,13 +5,13 @@
     <Host>https://github.com/fdpx/hst/raw/main</Host>
     <PackVer>
         <Rdc>11</Rdc>
-        <Vcd>2</Vcd>
-        <Enc>2</Enc>
+        <Vcd>3</Vcd>
+        <Enc>3</Enc>
     </PackVer>
     <AppVer>
         <Win>10</Win>
-        <Rec>13</Rec>
-        <Vcd>4</Vcd>
+        <Rec>14</Rec>
+        <Vcd>5</Vcd>
     </AppVer>
     <Files>
         <Win>dpx_app.zip</Win>
