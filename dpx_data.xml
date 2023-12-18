@@ -4,14 +4,14 @@
     <Site>https://www.instagram.com/dipix30/</Site>
     <Host>https://github.com/fdpx/hst/raw/main</Host>
     <PackVer>
-        <Rdc>11</Rdc>
-        <Vcd>3</Vcd>
-        <Enc>3</Enc>
+        <Rdc>12</Rdc>
+        <Vcd>4</Vcd>
+        <Enc>4</Enc>
     </PackVer>
     <AppVer>
         <Win>10</Win>
-        <Rec>14</Rec>
-        <Vcd>5</Vcd>
+        <Rec>15</Rec>
+        <Vcd>6</Vcd>
     </AppVer>
     <Files>
         <Win>dpx_app.zip</Win>
