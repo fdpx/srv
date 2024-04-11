@@ -4,7 +4,7 @@
     <Site>https://www.instagram.com/dipix30/</Site>
     <Host>https://github.com/fdpx/hst/raw/main</Host>
     <PackVer>
-        <Rdc>12</Rdc>
+        <Rdc>13</Rdc>
         <Vcd>4</Vcd>
         <Enc>4</Enc>
     </PackVer>
